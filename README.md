@@ -1,0 +1,2 @@
+# KIOSKU
+mining
